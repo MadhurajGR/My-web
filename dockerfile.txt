@@ -1,3 +1,6 @@
 hello everyone 
+<<<<<<< HEAD
 nbkjfdhflbaskjlb
 xyr 
+=======
+>>>>>>> parent of 914eaa2 (wrote)
