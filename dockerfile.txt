@@ -1,2 +1,10 @@
 hello everyone 
+<<<<<<< HEAD
 clear
+=======
+<<<<<<< HEAD
+nbkjfdhflbaskjlb
+xyr 
+=======
+>>>>>>> parent of 914eaa2 (wrote)
+>>>>>>> fc0d783e81ef72d52c37ae43277227491cf66398
